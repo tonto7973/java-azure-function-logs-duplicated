@@ -40,7 +40,7 @@ Settings:
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=09cbe5135baf4858bee9...",
     "WEBSITE_CONTENTSHARE": "azure-function-examples-200910102416",
     "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=09cbe5135baf4858bee9...",
-    // distributed tracing enabled
+
     "XDT_MicrosoftApplicationInsights_Java": "1",    
     "ApplicationInsightsAgent_EXTENSION_VERSION": "~2"
   }
